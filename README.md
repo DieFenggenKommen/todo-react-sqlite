@@ -7,6 +7,7 @@ Das Frontend wurde mit dem ReactJS-Framework realisiert.
 - Daten mittels eines Docker Volumes ausserhalb des Containers speichern
 - Erste Erfahrungen mit SQLite sammeln.
 - Erste Erfahrungen mit einer SinglePage-Applikation sammeln (ReactJS).
+- Installation der Dependencies mit yarn.
 
 ## Aufgabe
 - Erstelle ein Dockerfile um die Applikation in einem Container laufen zu lassen.
